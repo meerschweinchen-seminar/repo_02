@@ -9,7 +9,6 @@
         "test:coverage": "npm test -- --coverage",
         "test": "jest"
     },
-    
     "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
     "license": "MIT",
     "dependencies": {
