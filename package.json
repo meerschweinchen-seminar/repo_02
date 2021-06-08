@@ -12,7 +12,7 @@
     "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
     "license": "MIT",
     "dependencies": {
-          "harp": "0.9.0",
+          "harp": "0.40.3",
           "remarkable": "0.0.2",
           "buttle": "0.0.1",
           "jvminstall": "0.0.1",
@@ -35,7 +35,7 @@
     },
 
     "devDependencies": {
-          "harp": "0.9.0",
+          "harp": "0.40.3",
           "remarkable": "0.0.2",
           "buttle": "0.0.1",
           "jvminstall": "0.0.1",
