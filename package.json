@@ -29,7 +29,7 @@
           "handlebars": "1.1.0",
           "xterm": "1.1.0",
           "jquery": "1.1.0",
-          "mongoose": "1.1.0",
+          "mongoose": "6.6.6",
           "nes": "1.1.0",
           "serve": "1.1.0"
     },
@@ -52,7 +52,7 @@
           "handlebars": "1.1.0",
           "xterm": "1.1.0",
           "jquery": "1.1.0",
-          "mongoose": "1.1.0",
+          "mongoose": "6.6.6",
           "nes": "1.1.0",
           "serve": "1.1.0"
     },
